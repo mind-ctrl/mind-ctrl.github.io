@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'History and tradition,whether of ancient or comparatively recent times, are subjected to very different handling from that which the indulgence or credulity of former ages could allow.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'It was a manuscript copy of some early suites by Graziani for violin and harpsichord, and was apparently written at Naples in the year 1744, many years after the death of that composer.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'In England, there was scarcely an amount of order and protection to justify much national boasting.'      
 };
 
 function status(statusText) {
