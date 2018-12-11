@@ -12,7 +12,7 @@ const examples = {
   'example2':
       'It was a manuscript copy of some early suites by Graziani for violin and harpsichord, and was apparently written at Naples in the year 1744, many years after the death of that composer.',
   'example3':
-      'In England, there was scarcely an amount of order and protection to justify much national boasting.'      
+      'In the midst of them, the hangman, ever busy and ever worse than useless, was in constant requisition'      
 };
 
 function status(statusText) {
